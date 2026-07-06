@@ -1,5 +1,5 @@
 --                                                     BANK TRANSACTION ANALYSIS
---                                                      CONSUMER ANALYSIS (CA)
+--                                                      CUSTOMER ANALYSIS (CA)
 
 
 -- CA-01:
